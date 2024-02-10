@@ -1,4 +1,5 @@
 # Revenue-Analysis-Dashboard-Using-Tableau
+![sales analysis dashboard](https://github.com/abhishekks2001/Revenue-Analysis-Dashboard-Using-Tableau-/assets/156594626/8ee1ade1-a74c-4fc1-8455-354fd5c43d21)
 
 ### PROJECT OVERVIEW
 The Interactive Revenue Analysis Dashboard developed using Tableau offers a dynamic and user-friendly platform for exploring revenue trends across USA states from October 2020 to August 2021. This dashboard is equipped with interactive filters that enable users to delve into specific aspects of revenue data, including discount percentage, product category, and region.
